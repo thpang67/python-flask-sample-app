@@ -1,4 +1,4 @@
-## Flaskr an example application written in Python/Flask
+## Flaskr an example application written in Python/Flask [![Codefresh build status]( https://g.codefresh.io/api/badges/pipeline/pangborn.consulting.llc/my-first-project%2FFlaskSA?key=eyJhbGciOiJIUzI1NiJ9.NWU2Njk0MzJiOTg3M2YzM2Y4NmM4ZTVm.LGBZv091Q3c9j4BssRGRKuU7bwZeFvMcTkP0_PY-VX4&type=cf-2)]( https%3A%2F%2Fg.codefresh.io%2Fpipelines%2FFlaskSA%2Fbuilds%3Ffilter%3Dtrigger%3Abuild~Build%3Bpipeline%3A5e7e5e5126c576f5b71d0d4f~FlaskSA)
 
 ![Flask plus Codefresh](docker-flask-codefresh.jpg)
 
